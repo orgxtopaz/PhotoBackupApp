@@ -13,6 +13,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
+android.useAndroidX=true
+android.enableJetifier=true
 rootProject.name = "PhotoBackup"
 include(":app")
