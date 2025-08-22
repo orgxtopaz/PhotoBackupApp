@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">loluuuuuuu</string>
+    <string name="notif_channel_name">Photo Uploads</string>
+    <string name="notif_channel_desc">Automatic photo backups</string>
+    <string name="notif_title">Backing up photos</string>
+    <string name="notif_text">Uploading in background…</string>
+</resources>
